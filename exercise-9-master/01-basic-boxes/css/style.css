@@ -14,11 +14,11 @@ div {
 /* Add your styles for each box BELOW this line */
 
 #box01 {
-  backgound-color: rgba(28,104,167,1);
+  background-color: rgba(28,104,167,1);
 }
 
 #box02 {
-  backgrond-color: rgba(28,104,167,1);
+  background-color: rgba(28,104,167,1);
 
 padding-top: 20px;
 padding-right: 20px;
@@ -27,7 +27,7 @@ padding-left: 20px;
 }
 
 #box03 {
-  backround-color: rgba(28,104,167,1);
+  background-color: rgba(28,104,167,1);
   
   margin: 20px;
 }
