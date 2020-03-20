@@ -1,7 +1,5 @@
 body {
-  font size: 16px
-  font-family: serif;
-  color: #222;
+  font: 16px/1.5 sans-serif;
 }
 
 /* Do not touch the div CSS block! */
@@ -19,23 +17,23 @@ div {
 }
 
 #box02 {
-  background-color: rgba(28,104,167,71,0.7)
-  border-top: 10px solid
-  border-bottom: 10px solid
+  background-color: rgba(28,104,167,0.8);
+    
+  border-top: 2px solid rgb(28,104,167);
+  border-bottom: 2px solid(28,104,167);
   
   margin-right: 20px;
   
-  
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 #box03 {
-  background-color: rgba(28,104,167,71,0.8)
+  background-color: rgba(28,104,167,71);
 }
 
 #box04 {
-  background-color: rgba(28,104,167,71,71)
+  background-color: rgba(28,104,167,71);
 }
   
   
